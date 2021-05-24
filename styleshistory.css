@@ -1,0 +1,32 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #E1E195;
+    font-size: 30px;
+
+    
+}
+
+.toppy{
+    text-align: center;
+    font-size: 40px;
+}
+
+.footer2 {
+   
+    
+    height:100px;
+    width: 100%;
+    background-color: red;
+    
+    
+   
+    
+}
